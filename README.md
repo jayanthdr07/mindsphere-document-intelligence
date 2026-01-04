@@ -53,14 +53,14 @@ The system provides **clear, explainable outputs** that help users quickly under
 ##  Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](Home%20home.png)
 
 ### File Upload
-![File Upload](screenshots/upload.png)
+![File Upload](File%20upload.png)
 
 
 ### Analysis Result
-![Result](screenshots/result1.png)
+![Result](Analysis%20result1.png)
 
 ## 🧠 System Architecture (High-Level)
 
