@@ -61,6 +61,7 @@ The system provides **clear, explainable outputs** that help users quickly under
 
 ### Analysis Result
 ![Result](result1.png)
+![Result](result2.png)
 
 🧠 **System Architecture (High-Level)**
 
