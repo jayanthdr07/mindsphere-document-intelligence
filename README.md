@@ -113,8 +113,21 @@ The MVP demonstrates:
 - Real-time contradiction detection  
 - Explainable AI outputs  
 - Clean, animated user interface  
+---
+👥 Who Benefits from MindSphere?
 
-
+Legal Professionals & Law Firms
+Faster and more accurate contract and policy reviews.
+Compliance & Audit Teams
+Early detection of inconsistencies in regulatory and policy documents.
+Enterprises & Corporates
+Ensures internal policy consistency and reduces legal risks.
+Startups & Small Businesses
+Provides affordable AI-powered document analysis without legal expertise.
+Government & Regulatory Bodies
+Improves clarity and consistency in public policies and compliance documents.
+Students & Researchers
+Useful for legal-tech, NLP, and AI research applications.
 ---
 ▶️ How to Run the Project Locally
 
