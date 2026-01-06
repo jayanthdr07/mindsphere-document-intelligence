@@ -114,20 +114,42 @@ The MVP demonstrates:
 - Explainable AI outputs  
 - Clean, animated user interface  
 ---
-👥 Who Benefits from MindSphere?
-
+Target Users & Use Cases
 Legal Professionals & Law Firms
-Faster and more accurate contract and policy reviews.
+
+Faster and more accurate contract and policy reviews
+
+Reduced manual effort in identifying inconsistencies and risks
+
 Compliance & Audit Teams
-Early detection of inconsistencies in regulatory and policy documents.
+
+Early detection of inconsistencies in regulatory and policy documents
+
+Improved compliance monitoring and audit readiness
+
 Enterprises & Corporates
-Ensures internal policy consistency and reduces legal risks.
+
+Ensures internal policy consistency across departments
+
+Reduces legal and regulatory risks
+
 Startups & Small Businesses
-Provides affordable AI-powered document analysis without legal expertise.
+
+Affordable AI-powered document analysis
+
+No need for in-depth legal expertise
+
 Government & Regulatory Bodies
-Improves clarity and consistency in public policies and compliance documents.
+
+Improves clarity and consistency in public policies
+
+Supports compliance and regulatory documentation
+
 Students & Researchers
-Useful for legal-tech, NLP, and AI research applications.
+
+Useful for legal-tech, NLP, and AI research applications
+
+Supports experimentation and academic projects
 ---
 ▶️ How to Run the Project Locally
 
