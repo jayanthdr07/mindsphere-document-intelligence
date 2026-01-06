@@ -114,42 +114,31 @@ The MVP demonstrates:
 - Explainable AI outputs  
 - Clean, animated user interface  
 ---
-Target Users & Use Cases
-Legal Professionals & Law Firms
+## 🎯 Target Users & Use Cases
 
-Faster and more accurate contract and policy reviews
+### ⚖️ Legal Professionals & Law Firms
+- Faster, more accurate contract and policy reviews
+- Automatic detection of inconsistencies, risks, and missing clauses
 
-Reduced manual effort in identifying inconsistencies and risks
+### 🛡️ Compliance & Audit Teams
+- Early identification of regulatory and policy gaps
+- Improved compliance monitoring and audit readiness
 
-Compliance & Audit Teams
+### 🏢 Enterprises & Corporates
+- Ensures consistency across internal policies and legal documents
+- Reduces legal, regulatory, and operational risks
 
-Early detection of inconsistencies in regulatory and policy documents
+### 🚀 Startups & Small Businesses
+- Affordable AI-powered document analysis
+- No requirement for legal expertise
 
-Improved compliance monitoring and audit readiness
+### 🏛️ Government & Regulatory Bodies
+- Improves clarity, consistency, and transparency in public policies
+- Supports regulatory compliance and policy standardization
 
-Enterprises & Corporates
-
-Ensures internal policy consistency across departments
-
-Reduces legal and regulatory risks
-
-Startups & Small Businesses
-
-Affordable AI-powered document analysis
-
-No need for in-depth legal expertise
-
-Government & Regulatory Bodies
-
-Improves clarity and consistency in public policies
-
-Supports compliance and regulatory documentation
-
-Students & Researchers
-
-Useful for legal-tech, NLP, and AI research applications
-
-Supports experimentation and academic projects
+### 🎓 Students & Researchers
+- Useful for legal-tech, NLP, and AI research projects
+- Enables experimentation and academic innovation
 ---
 ▶️ How to Run the Project Locally
 
