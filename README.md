@@ -1,7 +1,7 @@
+# mindsphere-document-intelligence.
+AI-powered document intelligence system to detect hidden contradictions in policy documents.
 
 
-
-# MindSphere – Document Intelligence with Contradiction Detection
 
 **Team:** MindSphere  
 **Tagline:** Where Intelligence Meets Innovation  
