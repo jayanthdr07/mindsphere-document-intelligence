@@ -1,5 +1,5 @@
 # mindsphere-document-intelligence.
-AI-powered document intelligence system to detect hidden contradictions in policy documents.
+AI-powered document intelligence system to detect hidden contradictions in policy documents
 
 
 **Team:** MindSphere  
@@ -150,6 +150,6 @@ uvicorn backend.main:app --reload
 ⬇️
 
 3️⃣ Run the frontend
-Open frontend/index.html in a browser
+Open frontend/index.html in a browser.
 Upload a sample document
 Click Analyze Document
