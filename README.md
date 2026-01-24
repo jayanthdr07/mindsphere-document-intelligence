@@ -3,7 +3,7 @@ AI-powered document intelligence system to detect hidden contradictions in polic
 
 
 **Team:** MindSphere ! 
-**Tagline:** Where Intelligence Meets Innovation  
+**Tagline:** Where Intelligence Meets Innovation ! 
 
 ---
 
