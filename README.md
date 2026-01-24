@@ -2,7 +2,7 @@
 AI-powered document intelligence system to detect hidden contradictions in policy documents
 
 
-**Team:** MindSphere  
+**Team:** MindSphere ! 
 **Tagline:** Where Intelligence Meets Innovation  
 
 ---
