@@ -1,4 +1,4 @@
-131211109# mindsphere-document-intelligence.
+14131211109# mindsphere-document-intelligence.
 AI-powered document intelligence system to detect hidden contradictions in policy documents
 
 
