@@ -8,7 +8,7 @@ AI-powered document intelligence system to detect hidden contradictions in polic
 ---
 
 ## 📌 Problem Statement?
-**PS-2: Document Intelligence with Contradiction Detection**
+**PS-2: Document Intelligence with Contradiction Detection*
 
 Large contracts, policy documents, and institutional guidelines often contain **hidden contradictions** due to multiple revisions, complex language, and manual drafting. These contradictions can lead to **compliance issues, legal disputes, and ambiguity**. Manual review is slow, error-prone, and not scalable.
 
