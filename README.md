@@ -152,4 +152,4 @@ uvicorn backend.main:app --reload
 3️⃣ Run the frontend
 Open frontend/index.html in a browser.
 Upload a sample document
-Click Analyze Document
+Click Analyze Document.
