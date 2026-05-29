@@ -60,7 +60,7 @@ The system provides **clear, explainable outputs** that help users quickly under
 ![Result](result1.png)
 ![Result](result2.png)
 
-🧠 **System Architecture (High-Level)*
+🧠 *System Architecture (High-Level)*
 
 Document Upload  
 ⬇️  
